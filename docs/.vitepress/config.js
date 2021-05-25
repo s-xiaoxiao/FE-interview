@@ -1,8 +1,7 @@
 module.exports = {
     title: "FE-interview",
     description: "HTML CSS JavaScript Vue React",
-    base: '/',
-
+    base: '/FE-interview/',
 
 
     themeConfig: {
