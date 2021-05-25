@@ -1,0 +1,1 @@
+import{o as a,c as e,a as t,b as r}from"./app.991fd573.js";const d='{"title":"12","description":"","frontmatter":{},"relativePath":"index.md","lastUpdated":1621914469367}',i={},n=t("h1",{id:"_12"},[t("a",{class:"header-anchor",href:"#_12","aria-hidden":"true"},"#"),r(" 12")],-1);i.render=function(t,r,d,i,o,s){return a(),e("div",null,[n])};export default i;export{d as __pageData};
